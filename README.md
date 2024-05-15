@@ -1,3 +1,4 @@
 # flutter_application_1
 
-A new Flutter project.
+first flutter app.
+counter app using BLoC.
